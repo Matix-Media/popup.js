@@ -353,7 +353,7 @@ You can also change the width of the popup using the class `popup-window-small` 
 ---
 **Example 8**   
 You can make the popup not just smaller but also larger using the class `popup-window-large`.
-[Image of popup-01](https://i.imgur.com/AmV1Ce4.png)
+![Image of popup-01](https://i.imgur.com/AmV1Ce4.png)
 ```html
 <div
 			class="popup-window popup-primary popup-window-large"
@@ -398,7 +398,7 @@ You can make the popup not just smaller but also larger using the class `popup-w
 ---
 **Example 9**
 Another cool feature is, that you can change the popup without manually have to close it. Just use the `follow-popup` class on the link to the popup.
-[Image of popup-01](https://i.imgur.com/6siVXbk.png)
+![Image of popup-01](https://i.imgur.com/6siVXbk.png)
 ```html
 <div class="popup-window popup-primary" id="popup-09">
 			<div class="popup-header">
