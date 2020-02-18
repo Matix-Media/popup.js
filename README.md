@@ -435,4 +435,4 @@ Another cool feature is, that you can change the popup without manually have to 
 ```
 ---
    
-**All example popups are also in the** `example.html` **file.**
+**All example popups are also in the** [example.html](example.html) **file.**
