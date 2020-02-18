@@ -6,7 +6,7 @@ A simple and lightweight JS-library to create simple and cool looking Popups
 
 
 ## Usage
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 	<head>
