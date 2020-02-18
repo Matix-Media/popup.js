@@ -2,7 +2,9 @@
 A simple and lightweight JS-library to create simple and cool looking Popups
 
 ### Requirements
-- jQuery
+- [jQuery](https://jquery.com/)
+- The included [CSS file](popup.css)
+- The included [JavaScript file](popup.js)
 
 
 ## Usage
