@@ -7,6 +7,8 @@ A simple and lightweight JS-library to create simple and cool looking Popups
 - The included [JavaScript file](popup.js)
 
 
+Jump to [Code Examples](#code-examples)
+
 ## Usage
 ```html
 <!DOCTYPE html>
